@@ -28,7 +28,7 @@ The front-end of the sensor is divided into three different stages: the first on
 ![firmware](https://github.com/user-attachments/assets/6b83ded3-2465-496c-b896-37738909b4b5)
 
 - **SOFTWARE**:
-The software developed for the project has two main components coded respectively in Python and using the Processing3 environment. The Python code is responsible for handling communication with Arduino and the Processing component, as well as perform necessary calculations unavailable on the microcontroller. The Processing-based software has been built to interact with the user and present a simple interface for the Distance Sensor.
+- The software developed for the project has two main components coded respectively in Python and using the Processing3 environment. The Python code is responsible for handling communication with Arduino and the Processing component, as well as perform necessary calculations unavailable on the microcontroller. The Processing-based software has been built to interact with the user and present a simple interface for the Distance Sensor.
 
 A GUI was also implemented where the user can visualize the 'startig up' and the 'calibration in progess' states. During the measurement phase, the measured distance is displayed.
 
@@ -37,4 +37,4 @@ A GUI was also implemented where the user can visualize the 'startig up' and the
 ![measure](https://github.com/user-attachments/assets/6a9a37e7-6f90-4e59-9cb6-62544487b640)
 
 ---
-Contributors: Gloria Rizzato, Giulia Peteani, Francesca Ronchetti, Chiara Quartana, Marco SOave, Martina Greselin, Fosco Cancelliere
+Contributors: Gloria Rizzato, Giulia Peteani, Francesca Ronchetti, Chiara Quartana, Marco Soave, Martina Greselin, Fosco Cancelliere
